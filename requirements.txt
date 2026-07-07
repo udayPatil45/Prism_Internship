@@ -1,0 +1,21 @@
+fastapi>=0.110
+uvicorn>=0.29
+streamlit>=1.35
+SQLAlchemy>=2.0
+pydantic>=2.7
+pydantic-settings>=2.2
+python-dotenv>=1.0
+requests>=2.31
+beautifulsoup4>=4.12
+trafilatura>=1.9
+lxml>=5.2
+ddgs>=9.0
+sentence-transformers>=3.0
+numpy>=1.26
+pandas>=2.2
+plotly>=5.22
+matplotlib>=3.8
+scikit-learn>=1.4
+# Optional (auto-detected if installed):
+# faiss-cpu>=1.8
+# playwright>=1.44   (then run: playwright install chromium)
